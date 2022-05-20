@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @izayevisuals! I'm definitely a coding newbie
+- 👋 Hi, I’m Izzy! I'm definitely a coding newbie
 - 👀 I’m interested in becoming a SWE
 - 🌱 I’m currently learning the basics of CSS and responsive design
 - 💞 I want to learn how to write clean code... Teach me!
